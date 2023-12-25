@@ -1,0 +1,95 @@
+  
+  .information__about_us_list ul { 
+    display: flex;
+    flex-direction: column;
+    margin-right:60%;
+    width: 1000px;
+    list-style:disc;
+    margin-left: 3%;
+  }
+
+  
+  .information__about_us_header{
+    display: flex;
+    justify-content: center;
+    position: static;
+    font-weight: bold;
+    font-size: 60px;
+    margin: 2%;
+    margin-right: 4%;
+  }
+  .information__about_dehumidifier__h1{
+    display: flex;
+    justify-content: center;
+    position: static;
+    font-weight: bold;
+    font-size: 60px;
+    margin: 2%;
+    margin-right: 10%;
+  }
+  .container youtube__text{
+    display: flex;
+    justify-content: center;
+    position: static;
+    font-weight: bold;
+    font-size: 60px;
+    margin: 2%;
+    margin-right: 10%;
+  }
+  .information__about_us_text {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: static;
+    font-size: 35px;
+    margin-left: 10%;
+    text-indent: 3ch;
+    margin-right: 2%;
+  }
+
+  .information__about_us_list {
+    display: flex;
+    justify-content:first baseline;
+    flex-direction: column;
+    position: static;
+    margin-left: 5%;
+    margin-top: 1%;
+  }
+
+  .information__about_us_text_2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: static;
+    font-size: 43px;
+    margin-left: 10%;
+    margin-top: 1%;
+    text-indent: 3ch;
+  }
+  .information__about__dehumidifier_text{
+    margin-right: 3%;
+  }
+  .information__about__dehumidifier_text p1{
+    color: #5773f1;
+  }
+  .youtube__video iframe {
+    display: flex;
+    justify-content: center;
+    position: static;
+    margin-left: 15%;
+    border-radius: 30px;  
+    margin-bottom: 7%; 
+    height: 650px;
+    width: 1000px;
+  }
+  
+  .youtube__text{
+    display: flex;
+    justify-content: center;
+    position: static;
+    font-weight: bold;
+    font-size: 60px;
+    margin: 2%;
+    margin-right: 10%; 
+
+  }
