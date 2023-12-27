@@ -4,13 +4,14 @@
     justify-content: center;
     align-items: center;
     margin-bottom: 5%;
+    padding: 0% 5% 0% 5%;
 }
 
 .information__energotema h1, .information__energotema h2 {
     font-size: 45px;
     font-weight: bold;
     text-align: center;
-    margin: 2% 0;
+    margin: 3% 0;
 }
 
 .information__energotema p {
