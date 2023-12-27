@@ -1,0 +1,30 @@
+.information__energotema{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.information__energotema h1, .information__energotema h2 {
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    margin: 2% 0;
+}
+
+.information__energotema p {
+    font-size: 31px;
+    font-weight: lighter;
+    margin: 0 30px;
+    text-indent: 50px;
+    
+}
+
+.information__energotema ul {
+    margin-left: 30px;
+}
+
+.information__energotema li {
+    margin-bottom: 10px;
+}
